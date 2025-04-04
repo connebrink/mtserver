@@ -1,4 +1,4 @@
 
-# Small sample of simple multithread server with python
+# Sample of multithread server with python
 
 Without any dependencies
